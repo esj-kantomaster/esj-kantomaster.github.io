@@ -1,0 +1,16 @@
+
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/access.html
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/archive.html
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/atom.xml
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/categories.html
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/contact.html
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/index.html
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/link.html
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/pages.html
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/presentation.html
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/registration.html
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/rss.xml
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/sitemap.txt
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/tags.html
+
+https://github.com/esj-kantomaster/esj-kantomaster.github.io/2014-11-17-kickstart
