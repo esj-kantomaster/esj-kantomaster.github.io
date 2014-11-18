@@ -34,8 +34,8 @@ group: navigation
 
 ## 申し込み・問い合わせ
 
-> 2015年 関東地区生態学関係修士論文発表会事務局
-> esj.kanto.master2015(at)gmail.com
+> 関東地区生態学関係修士論文発表会事務局
+> ecology.kanto.master[at]gmail.com
 
 または[GitHub上のリポジトリ](https://github.com/esj-kantomaster/esj-kantomaster.github.io/issues)にて
 
