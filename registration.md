@@ -18,13 +18,9 @@ group: navigation
 ### 発表者の方へ
 
 * 発表を行う方は、メール本文に下記8つの送信項目を記入いただき、修士論文発表会事務局宛にメールを送信してください。
-* 発表申し込み〆切: 2015年1月31日（金）
+* 発表申し込み〆切: <mark>2015年2月20日（金） 24:00</mark>
 
 ***Link: [発表形式について](presentation.html)***
-
-#### 要旨の登録
-
-準備中です。
 
 ### 懇親会参加者の方へ
 
@@ -32,14 +28,7 @@ group: navigation
 
 ※昼食は各自、付近のコンビニエンスストアや飲食店をご利用ください（休日につき、学内の食堂は営業しておりません）。
 
-## 申し込み・問い合わせ
-
-> 関東地区生態学関係修士論文発表会事務局
-> ecology.kanto.master[at]gmail.com
-
-または[GitHub上のリポジトリ](https://github.com/esj-kantomaster/esj-kantomaster.github.io/issues)にて
-
-## 送信項目
+### 送信項目
 
 ※メールの件名は必ず「参加申込（氏名・所属）」としてください
 
@@ -55,3 +44,27 @@ group: navigation
 	7) その他、質問等ありましたらお書きください
 
 送信時から一週間が経っても返信がない場合は、お手数ですが再度事務局までお問い合わせください
+
+### 申し込み・問い合わせ
+
+> 関東地区生態学関係修士論文発表会事務局
+> ecology.kanto.master[at]gmail.com
+
+または[GitHub上のリポジトリ](https://github.com/esj-kantomaster/esj-kantomaster.github.io/issues)にて
+
+## 要旨の登録
+
+### 要旨の提出
+
+wordファイル（`.doc`）をメールに添付し、事務局宛に送信してください。
+
+※送信時のメールの件名、提出する要旨のファイル名は、「要旨‐氏名」としてください。
+
+要旨の提出締め切りは<mark>2015年2月20日（金） 24:00</mark>までです。
+
+### 要旨作成上の注意
+
+以下のWordファイルをダウンロードし、規定に従い作成してください。発表者の皆さまから提出いただいた要旨をもとに、発表会当日に講演要旨集を配布いたします。
+
+* [要旨作成規定](https://www.dropbox.com/s/l8td3jtx24emp1x/Abstract-Form_kanto2015.doc?dl=0)
+* [要旨テンプレート](https://www.dropbox.com/s/2t7jfavutiwnoub/Abstract-Template_kanto2015.doc?dl=0)
