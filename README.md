@@ -1,11 +1,14 @@
-第35回関東地区生態学関係修士論文発表会
-======
+# 第35回関東地区生態学関係修士論文発表会
 
 ![](https://raw.githubusercontent.com/esj-kantomaster/esj-kantomaster.github.io/master/assets/images/me.jpg)
 
 ## 第35回関東地区生態学関係修士論文発表会の案内
 
-今年度の関東地区生態学関係修士論文発表会は**横浜国立大学**（[2005年の開催](http://vege1.kan.ynu.ac.jp/lab/kantochiku.htm)以来）にて開催します。日時は**2015年２月28日10:00から17:00**です。
+今年度の関東地区生態学関係修士論文発表会は**横浜国立大学**（[2005年の開催](http://vege1.kan.ynu.ac.jp/lab/kantochiku.htm)以来）にて開催します。日時は**2015年２月28日13:00から16:30**です。
+
+当日のプログラムが決定いたしました。
+
+**[発表会の要旨集をこちらかダウンロードできます](https://www.dropbox.com/s/x07xmpi1a9e8vuc/15%E4%BF%AE%E5%A3%AB%E8%AB%96%E6%96%87%E7%99%BA%E8%A1%A8%E4%BC%9A%E8%A6%81%E6%97%A8%E9%9B%86.pdf?dl=0)**
 
 ## 関東地区生態学関係修士論文発表会とは
 
